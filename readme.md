@@ -73,7 +73,7 @@ In 2024, I led the digital communications strategy during RBC’s acquisition of
 
 To view the archived HSBC and RBC web communications during the transition:
 
-- [HSBC Home Page (Archived, March 2024)](https://web.archive.org/web/20240312025653/https://www.hsbc.ca/)
+- [HSBC Home Page (Archived, March 2024)](https://web.archive.org/web/20240312025653/https://www.hsbc.ca/) [Screenshot](https://github.com/huiherman/rbc-transition-digital-leadership/raw/main/hsbc-homepage-transition.png)
 - [HSBC Transition Message (Archived)](https://web.archive.org/web/20240324131700/https://www.about.hsbc.ca/hsbc-in-canada/our-transition-to-royal-bank-of-canada)
 - [RBC HSBC Acquisition Page (Archived)](https://web.archive.org/web/20240324131421/https://www.rbc.com/hsbc-canada/)
 - [RBC HSBC Enrolment Guide (Archived)](https://web.archive.org/web/20240328170812/https://www.rbc.com/hsbc-canada/enrolment/)
